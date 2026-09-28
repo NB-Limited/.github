@@ -1,16 +1,35 @@
-# NB Limited
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark-mode.png">
+    <img alt="NB Limited: Where the only limit is in the name." src="assets/logo-light-mode.png" width="440">
+  </picture>
+</p>
 
-Custom software, built to last. Web platforms, mobile apps, cloud systems and applied AI, from Sofia, for clients across Europe and the United States.
+<p align="center"><a href="https://nb-limited.com">nb-limited.com</a></p>
 
-We take on few projects and see each one through end to end: understand the problem fully, find the simple answer, build on open foundations so the work stays yours, and take care of the parts no one looks at, the security, the privacy, the case that happens once a year.
+A software studio in Sofia, Bulgaria. We design, build and run software for companies wherever they are, from company websites to AI trained on their own data.
 
-| Products | Systems | Intelligence | Advisory |
-|---|---|---|---|
-| Web platforms | Integrations | Custom AI models | Security testing |
-| Mobile apps | Cloud infrastructure | AI assistants | Technical audits |
-| Company websites | Data and reporting | Automation | Project rescue |
-| Product design | Maintenance | Document processing | Engineers for hire |
+- **Products:** web platforms, mobile apps, company websites, product design.
+- **Systems:** integrations, cloud infrastructure, data and reporting, maintenance.
+- **Intelligence:** custom AI models, AI assistants, automation, document processing.
+- **Advisory:** security testing, technical audits, project rescue, engineers for hire.
 
-Client work stays private. Some of what we have built is at [nb-limited.com](https://nb-limited.com/#work), and our founder's open-source work is at [@nixxxo](https://github.com/nixxxo).
+## Manifesto
 
-[nb-limited.com](https://nb-limited.com) · [info@nb-limited.com](mailto:info@nb-limited.com)
+I named the company as a reminder: the only limit is the one in the name.
+
+**Software is not judged on the day it launches.** It is judged years later, by how quietly it has done its work.
+
+**That is the standard we hold.** It asks for patience: to understand a problem fully before touching it, and to find the simple answer, which is nearly always the harder one.
+
+**It asks for restraint:** to use what is proven instead of reinventing it, to leave out whatever does not need to be there, and to build on open foundations, so you remain free to take the work anywhere, even away from us.
+
+**And it asks for care in the places no one looks:** the security, the privacy, the case that happens once a year. That is where good work and exceptional work part ways.
+
+**Perfection cannot be reached.** We have never taken that as a reason to stop trying.
+
+**We take on few projects, and we are open about each one:** what it costs, what is working and what is not. If something is not worth building, we say so.
+
+**Underneath it all is a simple pleasure.** We love a difficult problem, and the more unusual it is, the better.
+
+Nikola Baburov, Founder
