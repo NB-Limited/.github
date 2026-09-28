@@ -5,65 +5,31 @@
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://nb-limited.com">Website</a> ·
-  <a href="https://nb-limited.com/manifesto">Manifesto</a> ·
-  <a href="https://nb-limited.com/faq">FAQ</a> ·
-  <a href="https://nb-limited.com/careers">Careers</a> ·
-  <a href="mailto:info@nb-limited.com">info@nb-limited.com</a>
-</p>
+<p align="center"><a href="https://nb-limited.com">nb-limited.com</a></p>
 
-NB Limited is a software studio in Sofia, Bulgaria. We design, build and run software for companies wherever they are, from company websites to AI trained on their own data. One team owns each problem from the first call to long after launch.
+A software studio in Sofia, Bulgaria. We design, build and run software for companies wherever they are, from company websites to AI trained on their own data.
 
-**6+** years building software · **35+** projects shipped · **0** loose ends
+- **Products:** web platforms, mobile apps, company websites, product design.
+- **Systems:** integrations, cloud infrastructure, data and reporting, maintenance.
+- **Intelligence:** custom AI models, AI assistants, automation, document processing.
+- **Advisory:** security testing, technical audits, project rescue, engineers for hire.
 
-## What we do
+## Manifesto
 
-Four disciplines, one standard.
+I named the company as a reminder: the only limit is the one in the name.
 
-| Products | Systems | Intelligence | Advisory |
-|---|---|---|---|
-| **Web platforms**<br>customers and teams | **Integrations**<br>your tools, connected | **Custom AI models**<br>trained for you | **Security testing**<br>ethical hacking |
-| **Mobile apps**<br>iPhone and Android | **Cloud infrastructure**<br>built to scale | **AI assistants**<br>that know your business | **Technical audits**<br>in-depth review |
-| **Company websites**<br>fast, easy to run | **Data and reporting**<br>numbers you trust | **Automation**<br>busywork, handled | **Project rescue**<br>back on track |
-| **Product design**<br>idea to interface | **Maintenance**<br>looked after | **Document processing**<br>read and filed | **Engineers for hire**<br>vetted, on your team |
+**Software is not judged on the day it launches.** It is judged years later, by how quietly it has done its work.
 
-## Who we have built for
+**That is the standard we hold.** It asks for patience: to understand a problem fully before touching it, and to find the simple answer, which is nearly always the harder one.
 
-| Dallas | Eindhoven | Sofia |
-|---|---|---|
-| [Asset Entities](https://www.assetentities.com/): NASDAQ-listed, Web3 marketing and online communities | [ART-IE at Fontys](https://art-ie.eu/): EU-funded applied research | [BG Service](https://www.bgservice.net/bg): software company |
-| [Strive Asset Management](https://strive.com/): NASDAQ-listed asset manager with a Bitcoin treasury strategy | | [BG Plus TV](https://bgplus.bg/): television channel |
-| | | [JPL](https://jpl.bg/en/): casino and gaming machines |
-| | | [Bedroom Premium Club](https://www.instagram.com/bedroomclubsofia/): premium nightclub brand |
+**It asks for restraint:** to use what is proven instead of reinventing it, to leave out whatever does not need to be there, and to build on open foundations, so you remain free to take the work anywhere, even away from us.
 
-Plus clients we cannot name yet. Client code stays private; every engagement starts under NDA.
+**And it asks for care in the places no one looks:** the security, the privacy, the case that happens once a year. That is where good work and exceptional work part ways.
 
-## The lab
+**Perfection cannot be reached.** We have never taken that as a reason to stop trying.
 
-Our own products, in development.
+**We take on few projects, and we are open about each one:** what it costs, what is working and what is not. If something is not worth building, we say so.
 
-- **SwissPDF**: a faster, privacy-first alternative to iLovePDF.
-- **WaveMe**: a digital ice-breaker for real life.
-- **Intello**: menus, orders, stock and insights for restaurants, in one dashboard.
-- **Coupi**: a swipe-first take on local deals.
-- **LikeMe**: likes, comments and follows from the creators you follow.
-- **Crypt**: autonomous crypto futures trading, tuned for speed and risk.
+**Underneath it all is a simple pleasure.** We love a difficult problem, and the more unusual it is, the better.
 
-## How we work
-
-- **Understand first.** We learn the problem fully before touching it, then look for the simple answer, which is nearly always the harder one.
-- **Proven and open.** We use what is proven instead of reinventing it, and build on open foundations so the work stays yours to take anywhere.
-- **Care where no one looks.** Security, privacy and the case that happens once a year.
-- **Clear terms.** A fixed figure and a date before any work starts, ownership agreed in writing, an NDA before any detail.
-- **We stay.** After launch we look after it, ongoing or whenever you need us.
-
-Read the [manifesto](https://nb-limited.com/manifesto) for the rest.
-
-## Open source
-
-Our founder's public work, including security research and applied machine learning, is at [@nixxxo](https://github.com/nixxxo).
-
-## Work with us
-
-Write to [info@nb-limited.com](mailto:info@nb-limited.com) or use the form on [nb-limited.com](https://nb-limited.com). We reply within three working days. Engineers: open applications are welcome on the [careers page](https://nb-limited.com/careers).
+Nikola Baburov, Founder
