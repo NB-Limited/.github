@@ -14,6 +14,14 @@ A software studio in Sofia, Bulgaria. We design, build and run software for comp
 - **Intelligence:** custom AI models, AI assistants, automation, document processing.
 - **Advisory:** security testing, technical audits, project rescue, engineers for hire.
 
+## Our products
+
+Built and run by NB Limited, each on its own site:
+
+- **[Ponderari](https://ponderari.nb-limited.com):** which AI model to use for which job, from measured benchmarks, refreshed daily. Free, no account.
+- **[Resonari](https://resonari.nb-limited.com):** an Instagram profile's influence in one number, from reach and engagement, with the working shown.
+- **[Judicari](https://judicari.nb-limited.com):** eight evidence-backed checks on a startup idea before you build it. The first run is free.
+
 ## Manifesto
 
 I named the company as a reminder: the only limit is the one in the name.
